@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/.idea.FaceLink/.idea/vcs.xml
+.idea/.idea.FaceLink/.idea/indexLayout.xml
+.idea/.idea.FaceLink/.idea/encodings.xml
+.idea/.idea.FaceLink/.idea/discord.xml
